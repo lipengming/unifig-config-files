@@ -84,8 +84,8 @@ zuul.ignored-services: '*'
 zuul:
   routes:
     ratel-mall-route:
-      service-id: ratel-mall
+      service-id: unifig-mall
       path: /rm/**
     ratel-organ-route:
-      service-id: ratel-organ
+      service-id: unifig-organ
       path: /ro/**
